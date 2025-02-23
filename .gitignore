@@ -1,0 +1,28 @@
+# Eclipse
+*.class
+
+# Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Netbeans
+nbproject/
+
+# Eclipse Core
+.project
+
+# OS X
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Intellij
+*.iml
+out/
+
+# VSCode
+.vscode/
